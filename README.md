@@ -1,1 +1,1 @@
-# takapenkit
+# 3D model for school project
